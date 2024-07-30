@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @litedragondev
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python0
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I speak a little bit Japenese
 
 <!---
